@@ -1,0 +1,121 @@
+As a DevOps engineer with 4 years of experience, you'll need to be proficient in various Linux commands and utilities for your day-to-day activities. Here's a list of common Linux commands used by DevOps professionals:
+
+1. **File and Directory Operations:**
+   - `ls`: List files and directories.
+   - `pwd`: Print the working directory.
+   - `cd`: Change the current directory.
+   - `mkdir`: Create a new directory.
+   - `touch`: Create an empty file.
+   - `cp`: Copy files and directories.
+   - `mv`: Move or rename files and directories.
+   - `rm`: Remove files and directories.
+   - `find`: Search for files and directories.
+   - `grep`: Search text patterns in files.
+   - `chmod`: Change file permissions.
+   - `chown`: Change file ownership.
+
+2. **Text Processing:**
+   - `cat`: Concatenate and display file content.
+   - `head`: Display the beginning of a file.
+   B
+   - `tail`: Display the end of a file.
+   - `less` or `more`: View file content page by page.
+   - `sed`: Stream editor for text manipulation.
+   - `awk`: Text processing tool for data extraction.
+   
+3. **Archiving and Compression:**
+   - `tar`: Archive files.
+   - `gzip`, `gunzip`, `zcat`: Compress and decompress files.
+   - `zip`, `unzip`: Create and extract zip archives.
+
+4. **User and Permissions:**
+   - `passwd`: Change user password.
+   - `useradd` and `userdel`: Add and delete user accounts.
+   - `groupadd` and `groupdel`: Manage user groups.
+   - `sudo`: Execute commands with superuser privileges.
+
+5. **Networking:**
+   - `ifconfig` or `ip`: Network configuration.
+   - `ping`: Check network connectivity.
+   - `netstat` or `ss`: Network statistics.
+   - `ssh`: Secure Shell for remote access.
+   - `scp`: Securely copy files between hosts.
+   - `curl` and `wget`: Download files from the internet.
+   - `iptables` or `ufw`: Firewall configuration.
+
+6. **Process Management:**
+   - `ps`: List running processes.
+   - `top` or `htop`: Monitor system resource usage.
+   - `kill`: Terminate processes.
+   - `nohup`: Run processes in the background.
+
+7. **Package Management:**
+   - `apt` or `yum`: Package management (for Debian/Ubuntu and Red Hat-based systems, respectively).
+
+8. **System Information:**
+   - `uname`: Display system information.
+   - `df`: Disk space usage.
+   - `free`: Memory usage.
+   - `uptime`: System uptime.
+   - `lscpu` or `lshw`: Hardware information.
+
+9. **Log Files:**
+   - `tail -f`: Monitor log files in real-time.
+   - `journalctl`: View system logs.
+
+10. **Version Control:**
+    - `git`: Git version control commands.
+
+These are some of the fundamental Linux commands that DevOps engineers use regularly. Depending on your specific tasks and environment, you may also work with containerization tools like Docker, orchestration tools like Kubernetes, and automation tools like Ansible or Terraform. Additionally, scripting languages like Bash, Python, and Ruby are often used to automate tasks and deployments in a DevOps role.
+
+**********************************
+**********************************
+As a DevOps engineer, you'll use Git extensively for version control and collaborative development. Here are some common Git commands you might use on a daily basis:
+
+1. **Cloning a Repository:**
+   - `git clone <repository_url>`: Clone a remote repository to your local machine.
+
+2. **Basic Workflow:**
+   - `git pull`: Fetch and merge changes from the remote repository into your local branch.
+   - `git add <file>`: Stage changes for commit.
+   - `git commit -m "Commit message"`: Commit staged changes with a descriptive message.
+   - `git push`: Push your commits to the remote repository.
+
+3. **Branch Management:**
+   - `git branch`: List local branches.
+   - `git checkout <branch_name>`: Switch to a different branch.
+   - `git checkout -b <new_branch>`: Create and switch to a new branch.
+   - `git merge <branch_name>`: Merge changes from one branch into the current branch.
+   - `git branch -d <branch_name>`: Delete a local branch.
+   - `git push origin --delete <branch_name>`: Delete a remote branch.
+
+4. **Viewing Changes:**
+   - `git status`: Check the status of your working directory and staged changes.
+   - `git diff`: View the differences between your working directory and the last commit.
+   - `git log`: View commit history.
+
+5. **Tagging and Releases:**
+   - `git tag <tag_name>`: Create a new tag for a specific commit.
+   - `git push origin <tag_name>`: Push tags to the remote repository.
+   - `git tag -d <tag_name>`: Delete a local tag.
+
+6. **Undoing Changes:**
+   - `git reset <file>`: Unstage changes for a file.
+   - `git reset --hard HEAD`: Discard all changes in your working directory.
+   - `git revert <commit_hash>`: Create a new commit that undoes changes introduced by a specific commit.
+
+7. **Collaboration:**
+   - `git remote -v`: List remote repositories.
+   - `git fetch`: Fetch changes from remote without merging.
+   - `git pull --rebase`: Fetch and rebase changes from the remote repository.
+   - `git push <remote_name> <branch_name>`: Push commits to a specific branch on the remote repository.
+
+8. **Git Configuration:**
+   - `git config --global user.name "Your Name"`: Set your global username.
+   - `git config --global user.email "your.email@example.com"`: Set your global email.
+
+9. **Git Help:**
+   - `git --help`: Display Git's help documentation.
+   - `git <command> --help`: Display help for a specific Git command.
+
+These are some of the daily Git commands that you'll find useful in a DevOps role. The specific commands you use may vary depending on your team's Git workflow and the projects you're working on.

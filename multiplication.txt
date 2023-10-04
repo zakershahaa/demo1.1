@@ -1,0 +1,2 @@
+#multilpication
+a*b=3
