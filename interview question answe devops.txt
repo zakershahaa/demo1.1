@@ -1,0 +1,61 @@
+1.What are the various branching strategies used in the version control system?
+
+Branching is a very important concept in version control systems like git which facilitates team collaboration. Some of the most commonly used branching types are:
+
+Feature branching:
+•	This branching type ensures that a particular feature of a project is maintained in a branch.
+•	Once the feature is fully validated, the branch is then merged into the main branch.
+
+Task branching
+•	Here, each task is maintained in its own branch with the task key being the branch name.
+•	Naming the branch name as a task name makes it easy to identify what task is getting covered in what branch.
+
+Release branching:
+
+•	This type of branching is done once a set of features meant for a release are completed, they can be cloned into a branch called the release branch. Any further features will not be added to this branch.
+•	Only bug fixes, documentation, and release-related activities are done in a release branch.
+•	Once the things are ready, the releases get merged into the main branch and are tagged with the release version number.
+•	These changes also need to be pushed into the develop branch which would have progressed with new feature development.
+
+The branching strategies followed would vary from company to company based on their requirements and strategies.
+
+====================================
+
+2. Can you say something about the DevOps pipeline?
+
+A pipeline, in general, is a set of automated tasks/processes defined and followed by the software engineering team. DevOps pipeline is a pipeline which allows the DevOps engineers and the software developers to efficiently and reliably compile, build and deploy the software code to the production environments in a hassle free manner.
+Following image shows an example of an effective DevOps pipeline for deployment.
+
+
+The flow is as follows:
+•	Developer works on completing a functionality.
+•	Developer deploys his code to the test environment.
+•	Testers work on validating the feature. Business team can intervene and provide feedback too.
+•	Developers work on the test and business feedback in continuous collaboration manner.
+•	The code is then released to the production and validated again.
+======================================
+
+3. . How does Ansible work?
+Ansible has two types of servers categorized as:
+•	Controlling machines
+•	Nodes
+
+For this to work, Ansible is installed on controlling machine using which the nodes are managed by means of using SSH. 
+
+The location of the nodes would be specified and configured in the inventories of the controlling machine.
+
+Ansible does not require any installations on the remote node servers due its nature of being agentless. Hence, no background process needs to be executed while managing any remote nodes.
+
+Ansible can manage lots of nodes from a single controlling system by making use of Ansible Playbooks through SSH connection. 
+
+Playbooks are of the YAML format and are capable to perform multiple tasks.
+
+===================================
+4. 
+
+
+
+
+
+
+

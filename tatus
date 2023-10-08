@@ -1,0 +1,66 @@
+[33mcommit 09bf8079d6cc3c41c182317fcc96cfef4c0229a7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mbug1[m[33m)[m
+Author: zaker <zakershaha@gmail.com>
+Date:   Thu Oct 5 17:32:43 2023 +0530
+
+    adding zaker shaha text
+
+[33mcommit d7e8d89a1e80acb815eaa04325482ee2a20d994e[m
+Author: zaker <zakershaha@gmail.com>
+Date:   Wed Oct 4 21:52:46 2023 +0530
+
+    sayeed ka msg
+
+[33mcommit 70f408650cc187e3923bd7f68d9d5449c6772f8d[m
+Merge: b61bfd7 5f839b4
+Author: zaker <zakershaha@gmail.com>
+Date:   Wed Oct 4 13:18:44 2023 +0530
+
+    checking the 4+4=8 Merge branch 'feature_addition'
+
+[33mcommit 5f839b4197ec45abc0ca54242855234fd94bf623[m[33m ([m[1;32mfeature_addition[m[33m)[m
+Author: zaker <zakershaha@gmail.com>
+Date:   Wed Oct 4 13:18:00 2023 +0530
+
+    adding 4+4=8
+
+[33mcommit b61bfd702b97d48c6d1558b9e86c2ec2dbbeb163[m
+Author: zaker <zakershaha@gmail.com>
+Date:   Wed Oct 4 12:55:50 2023 +0530
+
+    substracting 1-1=0
+
+[33mcommit a8bc804003c0132c23c61d0adfd322c77c208cf7[m
+Author: zaker <zakershaha@gmail.com>
+Date:   Wed Oct 4 13:12:04 2023 +0530
+
+    addition of 3+3=6
+
+[33mcommit 62f95b264593b6f18ac9a982c877497bd210fbbe[m
+Author: zaker <zakershaha@gmail.com>
+Date:   Wed Oct 4 12:53:32 2023 +0530
+
+    adding 1+1=2
+
+[33mcommit a78bf66ff8460ab65d27b65f5be380a8081f58a1[m
+Author: zaker <zakershaha@gmail.com>
+Date:   Wed Oct 4 12:44:21 2023 +0530
+
+    doing some mathematical oper
+
+[33mcommit 034933077c14671ed9de434b360e1c202c7e63a6[m
+Author: zaker <zakershaha@gmail.com>
+Date:   Wed Oct 4 09:51:30 2023 +0530
+
+    third commit of division function
+
+[33mcommit 08cdbb4f7314a4b8723f66eb73d21ca3c303bb12[m
+Author: zaker <zakershaha@gmail.com>
+Date:   Wed Oct 4 08:37:55 2023 +0530
+
+    second commit
+
+[33mcommit 880761566f163ad15692f0b6bc4d8c52395a2340[m
+Author: zaker <zakershaha@gmail.com>
+Date:   Wed Oct 4 08:09:56 2023 +0530
+
+    adding commit
